@@ -1,4 +1,4 @@
-NAME
+NAMEEEEEE
 ----
 
 autojump - a faster way to navigate your filesystem
